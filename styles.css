@@ -28,17 +28,10 @@ p {
     height: 500px;
     width:300px;
 }
-.container{
-    margin-left: auto;
-    margin-right:auto;
-    width:500px;
-    height:281px;
-    display:block;
-}
-iframe.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+#vidWrapper{
+    margin: auto;
+    width:fit-content;
+    height:fit-content;
 }
 .socials {
   display: flex;
