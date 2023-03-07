@@ -34,18 +34,8 @@ p {
     height:fit-content;
     text-align: center;
 }
-.social-icons {
-    font-size: 36px;
-    cursor: pointer;
-}
-.fa-linkedin:hover {
-    color: #008000;
-}
-.fab {
-    color: #000000;
-}
 
-#footer {
-    background-color: #808080;
+
+footer {
     text-align: center;
 }
