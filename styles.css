@@ -28,10 +28,11 @@ p {
     height: 500px;
     width:300px;
 }
-#vidWrapper{
+#container{
     margin: auto;
     width:fit-content;
     height:fit-content;
+    text-align: center;
 }
 .socials {
   display: flex;
