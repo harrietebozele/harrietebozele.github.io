@@ -6,5 +6,4 @@
 
 ## Eyes Exercise
 <a href = 'https://harrietebozele.github.io/eye-exercise/'>Eyes Exercise</a><br/>
-
 <a href = 'https://harrietebozele.github.io/Pacmen-Exercise/'>Pacmen Exercise</a>
