@@ -34,15 +34,18 @@ p {
     height:fit-content;
     text-align: center;
 }
-.socials {
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  right: 1%;
-  bottom: 50%;
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-linkedin:hover {
+    color: #008000;
+}
+.fab {
+    color: #000000;
 }
 
-.socicon {
-  width: 0.5px;
-  height: 0.5px;
+#footer {
+    background-color: #808080;
+    text-align: center;
 }
