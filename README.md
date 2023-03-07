@@ -1,9 +1,9 @@
 # Harriet's Portfolio
 <img src = "./obehi.jpg"/>
-##About me
+## About me
 <p>I am currently an entry level full stack software developer in the process of obtaining my certificate in full stack development from MIT. In my portfolio contains links to various projects I have worked on using and not limited to HTML, Javascript, CSS, React, Next.JS and more.</p>
 
-##Project Links
+## Project Links
 ## Eyes Exercise
 <a href = 'https://harrietebozele.github.io/eye-exercise/'>Eyes Exercise</a>
 ## Pacmen Exercise
