@@ -1,4 +1,5 @@
-<h1>Harriet Ebozele <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Harriet Ebozele <br/><a href="https://github.com/joshmadakor1">Full stack developer</a></h1>
+<img src = "./obehi.jpg"></img>
 
 <h2>👨‍💻 My Software Development Projects include:</h2>
 
