@@ -14,7 +14,7 @@
   - [Eye Exercise](https://github.com/harrietebozele/eye-exercise.git)
   - [Pacmen Exercise](https://github.com/harrietebozele/Pacmen-Exercise.git)
   - [Simple Shopping Cart](https://github.com/harrietebozele/shopping-cart.git)
-  - <b>Back-end Software Development</b>
+- <b>Back-end Software Development</b>
   - [Firebase Authentication Using Google](https://github.com/harrietebozele/firebase-authentication-using-google.git)
   - [Building A Chat Application Using Firebase](https://github.com/harrietebozele/build-a-chat-application-with-firebase_.git)
 - <b>Full Stack Software Development using MERN stack</b>
