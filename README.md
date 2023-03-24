@@ -1,7 +1,9 @@
-<h1>Harriet Ebozele <br/><a>Full stack developer</a></h1>
+
+# Harriet Ebozele <br/> Full Stack Developer
 <img src = "./obehi.jpg"></img>
 
-<h2>👨‍💻 My Software Development Projects include:</h2>
+
+## 💻 My Software Development Projects include:
 
 - <b>Front-end Software Development</b>
   - [Bad Bank Exercise](https://github.com/harrietebozele/badbank.git)
@@ -25,7 +27,8 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+
+##  🤳 Connect with me:
 
 [<img align="left" alt="HarrietEbozele | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
